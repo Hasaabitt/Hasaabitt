@@ -1,2 +1,2 @@
 # Hello
-I enjoy using Java and learning network protocols
+I unironically enjoy using Java.
